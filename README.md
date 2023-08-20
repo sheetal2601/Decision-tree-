@@ -16,3 +16,5 @@
 7. **Visualize (Optional):** Visualize the decision tree to understand feature importance and decision paths.
 
 8. **Deploy (Optional):** If satisfactory, deploy the model for predictions, considering medical validation and expert input.
+
+9. **Final** - Train Accuracy : 0.719576719576719 , Test Accuracy : 0.6172839506172839
